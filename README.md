@@ -14,7 +14,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [Тест-план](https://github.com/Rromario/HomeworkJava1/tree/master/src) 
+* [Тест-план](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/report.md) 
 
 В качестве тестовых данных использовались данные [сайт freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * Валидные номера банковских карт:
@@ -38,6 +38,7 @@
   * abcdefgetreytr16
   * 16abcdefgetrey16
   * SELECT * FROM users WHERE username = 'admin' --'
+
 Тестирование производилось в следующем окружении:
 * Windows 11 Pro, 64-разрядная
 * Java 11
